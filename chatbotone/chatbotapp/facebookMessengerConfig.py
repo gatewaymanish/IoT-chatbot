@@ -1,9 +1,7 @@
 
 
 
-PAGE_ACCESS_TOKEN = "EAAJlq26YFLUBAEcAOZASuwhPAVrqUpSM161dj7P5yVCHdxYlkJKzEtcRtMYZAkC2ZAJ6FsRKbZBvT" \
-                    "j2MNe8LMHnU3huT41Fygpa7oQGBeYJZA10z1ZCmRZA09e2h5RqUVZCdcgL7kCTJaSvHy4ETcUTvu9NDZA7" \
-                    "c7qCLPPjcBS41A7QZDZD"
+PAGE_ACCESS_TOKEN = "this you can get from facebook"
 
 
-VERIFY_TOKEN = "2318934571"
+VERIFY_TOKEN = "2318934571" #this can be anything just to verify connections.
